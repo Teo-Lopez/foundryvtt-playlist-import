@@ -67,8 +67,9 @@
 		"verified": 10,
 		"maximum": 11
 	},
-	"url": "https://github.com/p4535992/foundryvtt-playlist-import",
+	"url": "https://raw.githubusercontent.com/Teo-Lopez/foundryvtt-playlist-import",
 	"manifest": "https://raw.githubusercontent.com/Teo-Lopez/foundryvtt-playlist-import/update-v11/src/module.json",
+	"download": "https://github.com/Teo-Lopez/foundryvtt-playlist-import/raw/update-v11/playlist-import.zip",
 	"readme": "https://github.com/p4535992/foundryvtt-playlist-import/blob/v1.8.6/README.md",
 	"changelog": "https://github.com/p4535992/foundryvtt-playlist-import/blob/v1.8.6/CHANGELOG.md",
 	"bugs": "https://github.com/p4535992/foundryvtt-playlist-import/issues",
